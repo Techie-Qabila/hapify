@@ -1,5 +1,5 @@
 # Hapify
-Do you like [Hapi](https://github.com/hapijs/hapi) Routing format, [Joi](https://github.com/hapijs/joi) validation and [Boom](https://github.com/hapijs/boom) error objects but you don't want to left [Express](https://github.com/expressjs/express) and it's middlewares echosystem! For the same reasons I creted this library.
+Do you like [Hapi](https://github.com/hapijs/hapi) Routing format, [Joi](https://github.com/hapijs/joi) validation and [Boom](https://github.com/hapijs/boom) error objects but you don't want to leave [Express](https://github.com/expressjs/express) and it's middlewares echosystem! For the same reasons I creted this library.
 
 # Usage Example
 ```javascript
