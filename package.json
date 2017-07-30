@@ -1,0 +1,30 @@
+{
+  "name": "hapify",
+  "version": "1.0.0",
+  "description": "A library to handle Hapi like routes with ExpressJS",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mahmed8003/hapify.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "hapi",
+    "framework",
+    "route",
+    "api"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "author": "Muhammad Ahmed <mahmed8003@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^5.2.0",
+    "joi": "^10.6.0",
+    "lodash": "^4.17.4"
+  }
+}
