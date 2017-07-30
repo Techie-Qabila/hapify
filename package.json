@@ -1,6 +1,6 @@
 {
   "name": "hapify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A library to handle Hapi like routes with ExpressJS",
   "main": "lib/index.js",
   "repository": {
