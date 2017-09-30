@@ -7,7 +7,7 @@ const Express = require('express');
 const BodyParser = require('body-parser');
 const Errorhandler = require('errorhandler');
 
-const Hapify = require('../lib/index');
+const Hapify = require('hapify');
 const Joi = require('joi');
 const Boom = require('boom');
 

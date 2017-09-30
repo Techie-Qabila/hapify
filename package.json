@@ -1,6 +1,6 @@
 {
   "name": "hapify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A library to handle Hapi like routes with ExpressJS",
   "main": "lib/index.js",
   "repository": {
@@ -23,8 +23,8 @@
   "author": "Muhammad Ahmed <mahmed8003@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "boom": "^5.2.0",
-    "joi": "^10.6.0",
+    "boom": "^6.0.0",
+    "joi": "^11.1.1",
     "lodash": "^4.17.4"
   }
 }
